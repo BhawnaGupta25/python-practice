@@ -1,0 +1,5 @@
+print("Hello Friend")
+a=int(input("Enter your first number: "))
+b=int(input("Enter your second number: "))
+print("The sum of these two numbers is:", a+b)
+print("Thank You")
